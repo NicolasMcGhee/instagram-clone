@@ -1,4 +1,4 @@
-# Getting Started with Create React Appp
+# Full Stack Instagram Clone Using Firebase, React, and Tailwind
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
